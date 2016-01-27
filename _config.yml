@@ -1,4 +1,4 @@
-layout_spectrum: 1
+name: Netzwerkkunde
 opengraph:
   image: null
   type: null
@@ -9,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9035114711150527
-  lightness: 0.3279575074557215
+  saturation: 0.08960573
+  lightness: 1
   brandStrength: 1
   brandColors:
     - '#5B90E1'
@@ -26,15 +26,15 @@ color:
     - '#151518'
     - '#CF6443'
     - '#ACC4E2'
-  rhythmicContrast: 0.8093899390660226
-typography_spectrum: 0.09525010688230395
+  rhythmicContrast: 1
+typography_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 1
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Netzwerkkunde
