@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Netzwerkkunde]]></title>
+        <description><![CDATA[Netzwerkkunde]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 14:48:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://hottelling.files.wordpress.com/2014/11/social-media-like.jpg">]]></description>
+            <link>undefinedb08e85ab-a68a-4f4e-95c3-6415773efafd/index.html</link>
+            <guid isPermaLink="false">b08e85ab-a68a-4f4e-95c3-6415773efafd</guid>
+            <pubDate>Wed, 27 Jan 2016 14:48:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
