@@ -1,9 +1,7 @@
-favicon: null
 name: Netzwerkkunde
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.08960573
-  brandStrength: 1
-  rhythmicContrast: 1
   brandColors:
     - '#5B90E1'
     - '#6E3930'
     - '#151518'
     - '#CF6443'
     - '#ACC4E2'
+  brandStrength: 0.5
   lightness: 1
-typography_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 1
+  rhythmicContrast: 0.5
+purpose: []
